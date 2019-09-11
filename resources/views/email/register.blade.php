@@ -1,0 +1,1 @@
+<p>New registration on Smart Ready:</p> <p> Name: {{ ucwords($name) }}</p><p> Email: {{ $email }}</p><p> Sector: {{ $sector }}</p><p> Date: {{ $currentDate }} and {{ $currentTime }} </p>

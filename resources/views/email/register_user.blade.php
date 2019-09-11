@@ -1,0 +1,1 @@
+<p> Hello {{ ucwords($name) }}, Thanks for registering. Someone from our team will be in touch soon.</p>

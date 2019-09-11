@@ -1,0 +1,355 @@
+@media
+  only screen
+  and (max-width : 375px) {
+
+
+
+  /**
+  Navigation
+  **/
+
+  #navigation {
+    width  : 100%;
+    height : 50px;
+  }
+
+  #navigation #openMenu {
+    z-index  : 99999999;
+    position : absolute;
+    top      : 0px;
+    left     : 0px;
+    padding: 17px 30px 30px 17px;
+  }
+
+  #navigation #openMenu img {
+    width : 30px;
+  }
+
+  #navigation ul {
+    display : none;
+  }
+
+
+  #homePage img {
+    width      : 250px;
+    margin-top : -100px;
+  }
+
+
+
+  .closeScreen, .closeModal {
+    padding: 20px 30px 30px 20px;
+  }
+
+  .closeScreen img, .closeModal img {
+  width: 24px;
+  }
+
+
+  /**
+  Fade over menu
+  **/
+
+
+  #menuFade ul {
+    font-size: 24px;
+  }
+
+  .menuApp, .menuSearch {display: block;}
+
+
+
+
+
+
+  /**
+  alert popups
+  **/
+
+
+  .alertCustom {
+    width: 80%;
+    left: 50%;
+    margin-left: -40%;
+    font-size: 20px;
+  }
+  
+  .alertCustom p {
+    margin:10px 0 0 0;
+  }
+
+  .alertCustom button {
+    margin: 0px;
+    padding: 10px;
+    cursor: pointer;
+    border: none;
+    background:none;
+    outline: none;
+  }
+
+
+
+
+
+
+
+  /**
+  Footer
+  **/
+
+  #socialIcons img {width: 120px;}
+  #footer ul li {display: block;}
+
+
+
+  /**
+  Homepage screens
+  **/
+
+  .subPage p {
+    font-size : 24px;
+  }
+
+
+  /**
+   * /app/index/
+   */
+
+
+  #openAppSend {
+      font-size: 24px;
+      padding: 10px 30px;
+      margin-top: 50px;
+  }
+
+  #btnAppStore {
+    margin-top: 10px;
+  }
+
+  #btnAppStore img {
+    width: 160px;
+    padding: 10px;
+    cursor: pointer;
+  }
+
+
+   /**
+   * /app/send/
+   */
+
+   #sendApp  {
+     font-size: 30px;
+     margin-top: 200px;
+     margin-bottom: 50px;
+   }
+
+   #sendApp #countryCode, #sendApp #mobileNumber {
+     font-size: 30px;
+   }
+
+   #sendApp #countryCode {
+     width: 80px;
+     margin: 0 0px 0 -10px;
+   }
+
+   #sendApp #mobileNumber {
+     width: 200px;
+     margin-bottom: 30px;
+   }
+
+   #sendApp #submit {
+     width: 160px;
+     padding: 10px;
+
+   }
+
+   #sendApp #changePrefix {
+     font-size: 16px;
+   }
+
+   #sendAppCheckPhone,
+   #sendAppThanks {
+     z-index: 100;
+     display: none;
+     padding: 0;
+     padding-top: 0;
+     font-size: 24px;
+     font-weight: 200;
+   }
+
+
+
+
+
+
+
+
+
+
+
+   #countryCodes {
+     overflow-x: hidden;
+     position: absolute;
+     left: 0;
+     top: 0;
+     width: 100%;
+     height: 100%;
+     background: #fff;
+     display: none;
+
+   }
+
+
+
+
+
+   #countryCodesPopup {
+     z-index: 1003;
+     position: absolute;
+     left: 0%;
+     width: 100%;
+     margin-left: 0px;
+     background: #fff;
+     margin-top: 80px;
+   }
+
+   #countryCodes #searchCountry {
+     position: relative;
+     width: 180px;
+     height: 32px;
+     padding: 4px 10px;
+     left: 50%;
+     margin-left: -90px;
+     margin-top: 0px;
+     border: none;
+     border-radius: 16px;
+     background: #ebebeb;
+     outline: none;
+     font-size: 26px;
+     font-weight: 200;
+     margin-bottom: 30px;
+   }
+
+   #trendingCountries {
+     margin-left: 30px;
+     margin-bottom: 0;
+     height: 30px;
+   }
+
+#trendingList {
+  margin-bottom: 30px;
+
+}
+
+   #loadMoreCodes {
+     display: none;
+   }
+
+   #countryCodes ul {
+     padding: 0;
+     padding-bottom: 200px;
+
+   }
+
+   #countryCodes li,
+   #countryCodes p {
+     font-size: 18px;
+     font-weight: 200;
+height: 42px;
+     list-style-type: none;
+     cursor: pointer;
+
+
+   }
+
+   #countryCodes li p {
+     float: left;
+     width: 200px;
+     margin-left: 30px;
+     margin-top:0;
+     margin-bottom:0;
+
+   }
+
+   #countryCodes li div {
+     float: left;
+
+   }
+
+   #countryCodes li .tick {
+     display: none;
+   }
+
+   #countryCode {
+     border: none;
+   }
+
+
+   /**
+   Register
+   **/
+
+#register label, #formSector .dropdown-toggle, #register #inputEmail, #register #inputName {
+  font-size: 30px;
+  margin-top: 50px;
+}
+
+#register #messageSuccess, #register #messageReset {
+  font-size: 30px;
+  margin-top: 15px;
+}
+
+#formSector .dropdown-toggle {
+  margin: 50px 0 0 30px;
+}
+#formSector .dropdown-menu {
+      transform: translate3d(0px, 100px, 0px) !important;
+}
+#formSector .dropdown-item {
+  font-size: 24px;
+  line-height: 1.2;
+}
+
+#register #btnLabel, #register #btnSector, #register #btnNext, #register #btnSubmit {
+  font-size: 24px;
+  margin-top: 10px;
+}
+
+
+
+
+/**
+Search
+**/
+
+#searchSelect .dropdown-toggle {
+  font-size: 30px;
+  margin-top: 50px;
+}
+
+#searchSelect .dropdown-toggle {
+  margin: 50px 0 0 26px;
+}
+#searchSelect .dropdown-menu {
+      transform: translate3d(0px, 100px, 0px) !important;
+}
+#searchSelect .dropdown-item {
+  font-size: 24px;
+  line-height: 1.2;
+}
+
+#searchPage .searchBox {
+  font-size: 30px;
+  margin-top: 50px;
+}
+
+#searchPage #btnSearch, #searchPage .searchBtn{
+  font-size: 24px;
+  margin-top: 10px;
+}
+
+
+
+}
+
+}

@@ -1,0 +1,40 @@
+[2019-09-09 12:30:34.458] [exthost] [info] extension host started
+[2019-09-09 12:30:34.489] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-09-09 12:30:34.489] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-09-09 12:30:34.606] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-09-09 12:30:34.606] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-09-09 12:30:34.647] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-09-09 12:30:34.647] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-09-09 12:30:34.827] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-09-09 12:30:34.827] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-09-09 12:30:34.855] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"activationEvent":"*"}
+[2019-09-09 12:30:34.855] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/eamodio.gitlens-9.9.1/dist/extension
+[2019-09-09 12:30:35.095] [exthost] [info] ExtensionService#_doActivateExtension humy2833.ftp-simple {"startup":true,"activationEvent":"*"}
+[2019-09-09 12:30:35.095] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/humy2833.ftp-simple-0.7.0/extension
+[2019-09-09 12:30:37.127] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2019-09-09 12:30:37.127] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/pkief.material-icon-theme-3.9.0/dist/extension
+[2019-09-09 12:30:37.204] [exthost] [info] eager extensions activated
+[2019-09-09 12:30:50.148] [exthost] [info] extension host started
+[2019-09-09 12:30:50.247] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-09-09 12:30:50.247] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-09-09 12:30:50.264] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-09-09 12:30:50.265] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-09-09 12:30:50.317] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-09-09 12:30:50.317] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-09-09 12:30:50.552] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-09-09 12:30:50.552] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-09-09 12:30:50.566] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"activationEvent":"*"}
+[2019-09-09 12:30:50.566] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/eamodio.gitlens-9.9.1/dist/extension
+[2019-09-09 12:30:50.834] [exthost] [info] ExtensionService#_doActivateExtension humy2833.ftp-simple {"startup":true,"activationEvent":"*"}
+[2019-09-09 12:30:50.834] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/humy2833.ftp-simple-0.7.0/extension
+[2019-09-09 12:30:51.752] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2019-09-09 12:30:51.752] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/pkief.material-icon-theme-3.9.0/dist/extension
+[2019-09-09 12:30:51.776] [exthost] [info] eager extensions activated
+[2019-09-09 12:45:29.198] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"activationEvent":"onLanguage:php"}
+[2019-09-09 12:45:29.198] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/php-language-features/dist/phpMain
+[2019-09-10 12:05:24.118] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-09-10 12:05:24.118] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-09-10 12:05:24.255] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-09-10 12:05:24.256] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-09-10 12:05:24.501] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-09-10 12:05:24.501] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
